@@ -2,6 +2,6 @@
 
 ---
 #### [US ETF Universe](firstbridge-api/us_etf_list.md)
-#### US Listing
-#### US ETF List
-#### US ETF Search
+#### [US Listing](firstbridge-api/us_etf_list.md)
+#### [US ETF List](firstbridge-api/us_filter.md)
+#### [US ETF Search](firstbridge-api/search_us_etfs.md)
