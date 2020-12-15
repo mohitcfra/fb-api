@@ -1,7 +1,7 @@
 ## Firstbridge API
 
 ---
-### US ETF Universe
-### US Listing
-### US ETF List
-### US ETF Search
+#### US ETF Universe
+#### US Listing
+#### US ETF List
+#### US ETF Search
