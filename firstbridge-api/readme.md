@@ -2,3 +2,5 @@
 #### [US Listing](us_etf_list.md)
 #### [US ETF List](us_filter.md)
 #### [US ETF Search](search_us_etfs.md)
+#### [Price & Trading Stats- Latest](us_latest_price_trading_stats.md)
+#### [NAV and Flows API - Latest](us_latest_nav_flows.md)
