@@ -1,5 +1,5 @@
 Returns the unique possible field values for every field in the classification data. For e.g. ‘/yt/v1.0/etf/distinct/listing/us?field=sponsor’ will return a list of all the sponsors.   
-Lising is supported on almost all fields like  
+Listing is supported on almost all fields like  
 
 sponsor  
 exchange_code  
