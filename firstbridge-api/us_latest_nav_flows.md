@@ -1,3 +1,5 @@
+Returns the latest available NAV, Shares outstanding, flows and NAV based returns for a specified composite_ticker.   
+
 Request:
 ```
 GET

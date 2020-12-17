@@ -1,3 +1,5 @@
+Returns the latest available prices and price-based returns for a specified composite_ticker.  
+
 Request:
 ```
 GET 

@@ -1,3 +1,19 @@
+Returns the unique possible field values for every field in the classification data. For e.g. ‘/yt/v1.0/etf/distinct/listing/us?field=sponsor’ will return a list of all the sponsors.   
+Listing is supported on almost all fields like  
+
+sponsor  
+exchange_code  
+asset_class  
+listing_region  
+is_live_listed  
+cusip  
+isin  
+sedol  
+inception_date  
+legal_structure  
+exchange_name  
+bloomberg_symbol  
+
 Request
 ```
 GET
