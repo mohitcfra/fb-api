@@ -1,3 +1,5 @@
+Returns the detailed classification & reference data for all ETFs currently listed in the US.  
+
 Request:
 ```
 GET
