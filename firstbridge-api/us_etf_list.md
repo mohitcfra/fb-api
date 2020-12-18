@@ -4,7 +4,7 @@ Request:
 ```
 GET
 
-/yt/v1.0/etf/us/list/active?page=<page_number>
+/yt/v1.0/etf/us/list/live?page=<page_number>
 ```
 Response:
 ```

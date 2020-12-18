@@ -1,4 +1,4 @@
-Returns the detailed classification & reference data for any ETF that meets the filter criteria. For example: ‘/yt/v1.0/etf/us/filter?field=sponsor&value=invesco’ will return information for all ETFs where Invesco is the sponsor. Filtering is supported on the following fields only:  
+Returns the detailed classification & reference data for any ETF that meets the filter criteria. For example: `/yt/v1.0/etf/us/filter?field=sponsor&value=invesco` will return information for all ETFs where Invesco is the sponsor. Filtering is supported on the following fields only:  
 
 1. sponsor  
 2. exchange_code  

@@ -1,4 +1,4 @@
-Returns the detailed classification & reference data for any ETF that contains the provided key words in the following fields: sponsor, composite_name and composite_ticker  
+Returns the detailed classification & reference data for any ETF that contains the provided key words in the following fields: sponsor, composite_name and composite_ticker.    
 
 Request:
 ```
