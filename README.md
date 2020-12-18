@@ -1,2 +1,2 @@
-## [Firstbridge API](firstbridge-api/readme.md)
+## [CFRA FirstBridge ETF API](firstbridge-api/readme.md)
 ---
