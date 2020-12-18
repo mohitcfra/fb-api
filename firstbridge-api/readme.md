@@ -4,3 +4,4 @@
 #### [US Keyword Search](search_us_etfs.md)
 #### [US Price & Trading Stats- Current](us_latest_price_trading_stats.md)
 #### [US NAV and Flows API - Current](us_latest_nav_flows.md)
+#### [US Holdings](us_latest_holdings.md)
