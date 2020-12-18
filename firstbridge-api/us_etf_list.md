@@ -1,4 +1,5 @@
-Returns the detailed classification & reference data for all ETFs currently listed in the US.  
+Returns the detailed classification & reference data for all ETFs currently listed in the US. 
+The API returns 100 ETFs per page. The value "previous": false indicates it is the first page, and "next": false indicates it is the last page 
 
 Request:
 ```
