@@ -35,7 +35,6 @@ Response:
             "face": 1368.0,
             "coupon": 2.51,
             "maturity": "2024-06-25",
-            "currency_conversion_rate": null,
             "created_at": "2020-12-19T14:20:52.342197Z",
             "updated_at": "2020-12-19T14:20:52.342243Z"
         },
@@ -60,7 +59,6 @@ Response:
             "face": 1258.0,
             "coupon": 3.591,
             "maturity": "2027-10-25",
-            "currency_conversion_rate": null,
             "created_at": "2020-12-19T14:20:52.353826Z",
             "updated_at": "2020-12-19T14:20:52.353878Z"
         }
