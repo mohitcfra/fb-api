@@ -1,5 +1,5 @@
 Returns the unique possible field values for every field in the classification data. For e.g. ‘/yt/v1.0/etf/distinct/listing/us?field=sponsor’ will return a list of all the sponsors.   
-Listing is supported on almost all fields like  
+Listing is supported on most fields, including:  
 
 ```
 sponsor  
@@ -13,22 +13,21 @@ sedol
 inception_date  
 legal_structure  
 exchange_name  
-bloomberg_symbol   
 sector  
-industry
-sub_industry
-commodity_types
+industry  
+sub_industry  
+commodity_types  
 energy_type
-agricultural_type
-metal_type
-market_cap_range
-growth_value_tilt
-continent
-specialized_region
-specific_country
-inverse_leveraged
-index_name
-income_etf_category
+agricultural_type  
+metal_type  
+market_cap_range  
+growth_value_tilt  
+continent  
+specialized_region  
+specific_country  
+inverse_leveraged  
+index_name  
+income_etf_category  
 ```
 
 Request
