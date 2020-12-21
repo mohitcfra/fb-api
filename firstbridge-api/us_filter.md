@@ -1,18 +1,35 @@
-Returns the detailed classification & reference data for any ETF that meets the filter criteria. For example: `/yt/v1.0/etf/us/filter?field=sponsor&value=invesco` will return information for all ETFs where Invesco is the sponsor. Filtering is supported on the following fields only:  
+Returns the detailed classification & reference data for any ETF that meets the filter criteria. For example: `/yt/v1.0/etf/us/filter?field=sponsor&value=invesco` will return information for all ETFs where Invesco is the sponsor.  
 
-1. sponsor  
-2. exchange_code  
-3. asset_class  
-4. listing_region  
-5. is_live_listed  
-6. cusip  
-7. isin  
-8. sedol  
-9. inception_date  
-10. legal_structure  
-11. exchange_name  
-12. bloomberg_symbol  
-13. firstbridge_id  
+Filtering is supported on most fields, including:  
+
+```
+sponsor  
+exchange_code  
+asset_class  
+listing_region  
+is_live_listed  
+cusip  
+isin  
+sedol  
+inception_date  
+legal_structure  
+exchange_name  
+sector  
+industry  
+sub_industry  
+commodity_types  
+energy_type
+agricultural_type  
+metal_type  
+market_cap_range  
+growth_value_tilt  
+continent  
+specialized_region  
+specific_country  
+inverse_leveraged  
+index_name  
+income_etf_category  
+```
 
 Request:
 ```
