@@ -30,6 +30,8 @@ inverse_leveraged
 index_name  
 income_etf_category  
 ```
+If you want all ETFs for a given filtering criterion in single api call, you should set pagination=off
+`/yt/v1.0/etf/us/filter?field=asset_class&value=Equities (Stocks)&pagination=off`
 
 Request:
 ```

@@ -1,6 +1,9 @@
 Returns the detailed classification & reference data for all ETFs currently listed in the US. 
 The API returns 100 ETFs per page. The value "previous": false indicates it is the first page, and "next": false indicates it is the last page 
 
+If you want all ETFs in single api call, you should set pagination=off  
+`/yt/v1.0/etf/us/list/live?pagination=off`
+
 Request:
 ```
 GET
