@@ -1,11 +1,12 @@
-# Popular Theme / Thematic Search
+# Pre-filtered ETF Categories
 
+Returns all ETFs in specified pre-filtered ETF categories. 
 Sample API call
 ```
 GET /yt/v1.0/us/lists?filter=esg
 ```
 
-## Themes
+## Categories
 ```
 ESG ETFs
 /yt/v1.0/us/lists?filter=esg
